@@ -12,6 +12,8 @@ The Password Generator is a front-end web application built with JavaScript. It 
 
  • [Usage](#usage)
 
+ • [Customization](#customization)
+
  • [Features](#features)
 
  • [Technologies Used](#technologies-used)
